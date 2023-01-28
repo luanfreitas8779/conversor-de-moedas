@@ -36,7 +36,6 @@ const convertValues = () => {
         currency: 'BRL'
     }).format(inputReais)
 
-
 }
 
 changeCurrency = () => {
